@@ -1,3 +1,1 @@
-# Banco.py
-Sistema de banco simples com menu
-sacar, depositar...
+Meus exercicios resolvidos em python
